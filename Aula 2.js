@@ -34,7 +34,7 @@ console.log()
     {
         console.log(`Em um reino bem distante, chamado Horrara, uma cavaleira chamada Hanna, destemida e muito forte, lutava para se tornar a próxima rainha!
         Mas para que ela se tornasse uma rainha, ela deveria provar que é merecedora, concluindo a missão que lhe foi imposta!
-        Hannad então saiu na sua jornada para completar sua missão...`)
+        Hanna então saiu na sua jornada para completar sua missão...`)
         console.log()
         console.log(`Você passará pelo monte dos gigantes para tentar recuperar a espada dos Deuses. Será que você obterá sucesso nesse desafio? 
         Logo depois você enfrentará a cobra gigante de Mumbanda, para conseguir a Pedra da Vida!
@@ -71,7 +71,7 @@ console.log()
     O próximo desáfio é nos confins do deserto de Aramboca, onde você terá que pegar a Capa de Invisibilidade!
     O seu próximo desáfio é pelas campinas de Dorck, a procura do Cavalo Branco de Thor!
     E por último e não menos importante, você terá que passar por Valarrary, para recuperar A Poção de Cura!
-    Agora responda cavaleiro Athreus com Sim ou Não... `)
+    Agora responda cavaleiro Lufyn com Sim ou Não... `)
     }
 
 var cont = 0
@@ -127,10 +127,10 @@ if (num1 == 0) {
 } else if (num1 == 2) {
     console.log(`Você falhou, mas conseguiu fugir!`)
 } else if (num1 == 3) {
-    console.log(`Foi por pouco, mas você falhou!`)
+    console.log(`Foi por pouco, você falhou!`)
 } else if (num1 == 4) {
     console.log(`Você conseguiu concluir a missão, mesmo que não da maneira perfeita!`)
 } else if (num1 == 5) {
-    console.log(`Missão concluída cavaleiro, você se tornará o novo rei de Horrara!`)
+    console.log(`Missão concluída, você se tornará o(a) novo(a) rei(rainha) de Horrara!`)
 }
 console.log()
